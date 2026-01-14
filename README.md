@@ -1,1 +1,1 @@
-#   CodeForces problem solving.
+#   CodeForces problems solving.
